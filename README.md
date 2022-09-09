@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emanuel Nussli
 - 👀 I’m interested in Statistics, Causality and Machine Learning
-- 🌱 I’m currently studying for a MSc in Statistics at ETH Zürich
+- 🌱 I’m currently studying towards my MSc in Statistics at ETH Zürich
 - 📫 emi.nussli@gmail.com
 
 <!---
