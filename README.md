@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @enussl
+- 👋 Hi, I’m Emanuel Nussli
 - 👀 I’m interested in Statistics, Causality and Machine Learning
 - 🌱 I’m currently studying for a MSc in Statistics at ETH Zürich
 - 📫 emi.nussli@gmail.com
